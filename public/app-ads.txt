@@ -47,10 +47,11 @@ ignitemediatech.com, pub_61317, RESELLER
 kidoz.net, 15614, RESELLER, a109366414b7335e
 video.unrulymedia.com, 2444764291, RESELLER
 triplelift.com, 13423, RESELLER, 6c33edb13117fd86
+yandex.com, 319167913, DIRECT
 display.io, 156748, RESELLER
 pubmatic.com, 167323, RESELLER, 5d62403b186f2ace
-yango-ads.com, 106028583, DIRECT
 my-cast.tv, 987137, RESELLER, 8c33fe1bd714ffd7
+yango-ads.com, 319167913, DIRECT
 app-stock.com, 509221, RESELLER, ed8c126ea5971415
 conversantmedia.com, 100358, RESELLER, 03113cd04947736d
 adyoulike.com, f3d16fa10382ca99dca498bd4e9659c4, RESELLER
@@ -76,7 +77,6 @@ adagio.io, 1522, RESELLER
 conversantmedia.com, 100886, RESELLER, 03113cd04947736d
 video.unrulymedia.com, 718585545, RESELLER
 adingenious.com, 75075, RESELLER
-yandex.com, 106028583, DIRECT
 smartadserver.com, 4568, RESELLER, 060d053dcf45cbf3
 opera.com, pub10014056052800, RESELLER, 55a0c5fd61378de3
 openx.com, 538959099, RESELLER, 6a698e2ec38604c6
