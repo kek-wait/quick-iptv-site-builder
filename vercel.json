@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/((?!assets|ads\\.txt|app-ads\\.txt|og-image\\.png|robots\\.txt|placeholder\\.svg).*)", "destination": "/index.html" }
+  ]
+}
